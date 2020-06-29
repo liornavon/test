@@ -11,7 +11,7 @@
         /*CSS RESETS*/
 
 body{
-    background-color: #004d00;
+    background-color: #1a1a00;
     line-height: 1.6;
 
 }
